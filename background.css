@@ -1,0 +1,75 @@
+body {
+    background-image: url('assets/expanded.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    margin: 0%;
+}
+
+h3{
+     color:white;
+     font-size: 5em;
+     font-family: 'Pacifico', cursive;
+     position: absolute;
+     top: 5%;
+     left: 60%;
+     
+}
+
+
+.container {
+    position: absolute;
+    color:black;
+    bottom: 5%;
+    top: 95%;
+    left: 40%;
+}
+
+.pic {
+    position: absolute;
+    left: 58%;
+    bottom: 20%;
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    position: absolute;
+    left: 35%;
+    bottom: 23%;
+  }
+  .fa-instagram {
+    background: white;
+    color: maroon;
+    position: absolute;
+    left: 40%;
+    bottom: 23%;
+  }
+  .fa-linkedin {
+    background: white;
+    color: #2867b2;
+    position: absolute;
+    left: 35%;
+    bottom: 13%;
+  }
+  .fa-github {
+    background: white;
+    color:black;
+    position: absolute;
+    left: 40%;
+    bottom: 13%;
+  }
+  
